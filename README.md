@@ -1,13 +1,4 @@
 # Open360Mocap
-Open360Mocap is an open-source, hardware-agnostic framework for full-body motion capture using a combination of IMUs and a single 360° camera, aiming for accurate, drift-free, and globally-referenced XR tracking.
-
-**Short description:**
-Open360Mocap is an open-source, hardware-agnostic framework for full-body motion capture using a combination of IMUs and a single 360° camera, aiming for accurate, drift-free, and globally-referenced XR tracking.
-
-
-**README.md**
-
-# Open360Mocap
 
 Open360Mocap is an open-source framework for accurate and robust full-body motion capture. By combining affordable IMU sensors with a single 360° camera, Open360Mocap bridges the gap between robust body tracking and global spatial anchoring for XR, animation, and research applications.
 
